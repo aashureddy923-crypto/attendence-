@@ -1,6 +1,7 @@
+console.log("Login button clicked");
 document.getElementById("email").value =
     localStorage.getItem("lastRegisteredEmail") || "";
-const lgnBtn = document.getElementById("login-button");
+const lgnBtn = document.getElementById("lgn-btn");
 //console.log(lgnBtn); //rectify the error
 lgnBtn.addEventListener("click", function(event) {
     event.preventDefault();

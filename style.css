@@ -1,4 +1,4 @@
-/*div{
+div{
     text-align: center;
     background-color: lightblue;
 }
@@ -6,7 +6,7 @@
     background-color:rgb(201, 201, 207);
 }
 
-/* General Page Styling */
+/* General Page Styling 
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f7fc;
@@ -14,7 +14,7 @@ body {
     padding: 0;
 }
 
-/* Login & Register Containers */
+/* Login & Register Containers 
 .login-container,
 .register-container {
     width: 350px;
@@ -26,13 +26,13 @@ body {
     text-align: center;
 }
 
-/* Heading */
+/* Heading 
 h1 {
     color: #333;
     margin-bottom: 20px;
 }
 
-/* Labels */
+/* Labels 
 label {
     display: block;
     text-align: left;
@@ -40,7 +40,7 @@ label {
     font-weight: bold;
 }
 
-/* Input Fields */
+/* Input Fields 
 input {
     width: 95%;
     padding: 10px;
@@ -49,7 +49,7 @@ input {
     margin-bottom: 10px;
 }
 
-/* Button */
+/* Button 
 button {
     width: 100%;
     padding: 10px;
@@ -65,7 +65,7 @@ button:hover {
     background-color: #357abd;
 }
 
-/* Links */
+/* Links 
 a {
     text-decoration: none;
     color: #4a90e2;
@@ -75,7 +75,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Paragraph */
+/* Paragraph 
 p {
     margin-top: 15px;
 }

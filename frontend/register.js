@@ -25,6 +25,8 @@ regBtn.addEventListener("click", function(event) {
     console.log(users)
     localStorage.setItem("users", JSON.stringify(users))
     localStorage.setItem("lastRegisteredEmail", email.value);
+    localStorage.setItem("email", email.value);
+localStorage.setItem("password", password.value);
     alert("Registration successful")
     window.location.href="login.html"
 
